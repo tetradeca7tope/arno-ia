@@ -1,0 +1,56 @@
+========================================
+0:00:00.680 - Start Program
+========================================
+
+load 21518 central subhalos
+halo rotation done
+========================================
+0:00:28.450 - End Program
+Elapsed time: 0:00:27.770
+========================================
+
+ AUTO> BEGIN ***************************************
+
+ AUTO> PROGRAM INITIALIZATION
+ SET_OPENMP_OPTIONS> PROGRAM WILL RUN IN PARALLEL MODE
+                     CPU NUMBER:          16
+                     EACH LOADING PARTICLE NUMBER:        1344
+ AUTO> MAKING LINKEDLIST
+ LINKEDLIST> WARNING: nmesh less than 4!
+ LINKEDLIST> GRID NUMBER:           2 X           2
+ AUTO> COUNTING PAIRS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    4.4591567665338516      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    4.5397690311074257      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    4.2369586676359177      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    3.4174842871725559      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    2.5436884127557278      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    2.5377696864306927      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    3.0142704769968987      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    2.7581465095281601      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    2.5008593089878559      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    2.2364864349365234      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    2.0957172513008118      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    1.8334008418023586      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    1.5806376747786999      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN    1.3149177767336369      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN   0.83298841863870621      SECONDS
+ AUTO> START THREAD:            0
+ AUTO> END THREAD:            0 IN   0.65357832610607147      SECONDS
+ 
+
+ AUTO> END *****************************************
