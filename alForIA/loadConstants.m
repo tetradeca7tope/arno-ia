@@ -3,7 +3,7 @@
 % Problem Dependent Constants
 numDims = 2;
 problemSpaceBounds = [0 90; 0 90];
-lowestLogliklVal = -1e8; % TODO @Ying Need an estimate for this
+lowestLogliklVal = -2e8; % TODO @Ying Need an estimate for this
 logLiklRange = 5e7; % TODO @Ying: need an estimate for this.
 
 % Set up problem class 

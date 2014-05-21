@@ -1,12 +1,12 @@
 ========================================
-0:00:00.680 - Start Program
+0:00:00.580 - Start Program
 ========================================
 
 load 21518 central subhalos
 halo rotation done
 ========================================
-0:00:28.450 - End Program
-Elapsed time: 0:00:27.770
+0:00:27.720 - End Program
+Elapsed time: 0:00:27.140
 ========================================
 
  AUTO> BEGIN ***************************************
@@ -20,37 +20,37 @@ Elapsed time: 0:00:27.770
  LINKEDLIST> GRID NUMBER:           2 X           2
  AUTO> COUNTING PAIRS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    4.4591567665338516      SECONDS
+ AUTO> END THREAD:            0 IN    2.8409256674349308      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    4.5397690311074257      SECONDS
+ AUTO> END THREAD:            0 IN    2.2340130545198917      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    4.2369586676359177      SECONDS
+ AUTO> END THREAD:            0 IN    2.5016706995666027      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    3.4174842871725559      SECONDS
+ AUTO> END THREAD:            0 IN    2.2301123365759850      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    2.5436884127557278      SECONDS
+ AUTO> END THREAD:            0 IN    1.2791678123176098      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    2.5377696864306927      SECONDS
+ AUTO> END THREAD:            0 IN    1.6448981687426567      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    3.0142704769968987      SECONDS
+ AUTO> END THREAD:            0 IN    1.6269067451357841      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    2.7581465095281601      SECONDS
+ AUTO> END THREAD:            0 IN    1.1323935240507126      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    2.5008593089878559      SECONDS
+ AUTO> END THREAD:            0 IN    1.8790843300521374      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    2.2364864349365234      SECONDS
+ AUTO> END THREAD:            0 IN    1.1931254900991917      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    2.0957172513008118      SECONDS
+ AUTO> END THREAD:            0 IN    1.2685943283140659      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    1.8334008418023586      SECONDS
+ AUTO> END THREAD:            0 IN    1.4637272544205189      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    1.5806376747786999      SECONDS
+ AUTO> END THREAD:            0 IN   0.58865845948457718      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN    1.3149177767336369      SECONDS
+ AUTO> END THREAD:            0 IN   0.58787697181105614      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN   0.83298841863870621      SECONDS
+ AUTO> END THREAD:            0 IN   0.35112966597080231      SECONDS
  AUTO> START THREAD:            0
- AUTO> END THREAD:            0 IN   0.65357832610607147      SECONDS
+ AUTO> END THREAD:            0 IN   0.44411238282918930      SECONDS
  
 
  AUTO> END *****************************************

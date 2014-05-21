@@ -13,8 +13,9 @@ function [logLiklVals] = galaxyLogLikelihoodWrap(evalAtPts, lowestLogLiklVal)
     
     % First write to file
     currEvalPt = evalAtPts(iter, :);
-    inFile = sprintf('sim/queryIn_%s', datestr(now, 'mmdd-HHMMSS'));
-    outFile = sprintf('sim/liklOut_%s', datestr(now, 'mmdd-HHMMSS'));
+    stamp = rand();
+    inFile = sprintf('sim/queryIn_%f', stamp);
+    outFile = sprintf('sim/liklOut_%f', stamp);
     save(inFile, 'currEvalPt', '-ascii');
 
     % Now Call the simulator
